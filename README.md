@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" height="128" alt="From The Fog: Full Russian Localization icon"></p>
+
 <h1 align="center">From The Fog: Full Russian Localization</h1>
 
 <p align="center">
@@ -6,7 +8,9 @@
 </p>
 
 <p align="center">
-  <sub>Target: From The Fog v1.11.3 (Lunar Eclipse Studios) · License: MIT · Encoding: UTF-8</sub>
+  <a href="https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/actions/workflows/build.yml"><img src="https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+  <a href="https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/releases/latest"><img src="https://img.shields.io/github/v/release/milkycloud-dev/from-the-fog-full-russian-localization" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License: MIT"></a>
 </p>
 
 <p align="center">
@@ -32,9 +36,13 @@ It contains only configuration and text files to respect original author licensi
 
 ### Installation
 
-1. Open your target resourcepack or datapack archive.
-2. Replace or merge the `assets/` and `data/` directories with the files from this repository.
-3. Select Russian language in your Minecraft client settings.
+1. Download the pre-built `.zip` from [Releases](https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/releases/latest).
+2. Place it into your world `datapacks/` folder or client `resourcepacks/`.
+3. Select Russian language in your client settings.
+
+### Releases
+
+Pre-built ready-to-use binaries (`.jar` / `.zip`) are available for download in [Releases](https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/releases/latest).
 
 ### License
 
@@ -59,9 +67,13 @@ MIT License. Created by milkycloud-dev (2026).
 
 ### Установка
 
-1. Откройте архив ресурспака или датапака.
-2. Скопируйте папки `assets/` и `data/` из этого репозитория с заменой исходных файлов.
-3. Выберите русский язык в настройках клиента Minecraft.
+1. Скачайте готовую сборку `.zip` из раздела [Releases](https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/releases/latest).
+2. Поместите архив в папку `datapacks/` мира или `resourcepacks/` клиента.
+3. Выберите русский язык в настройках Minecraft.
+
+### Релизы
+
+Готовые собранные бинарные пакеты (`.jar` / `.zip`) доступны для загрузки в разделе [Releases](https://github.com/milkycloud-dev/from-the-fog-full-russian-localization/releases/latest).
 
 ### Лицензия
 
